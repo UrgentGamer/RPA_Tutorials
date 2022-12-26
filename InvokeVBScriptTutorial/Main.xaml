@@ -65,7 +65,7 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <ui:Comment sap:VirtualizedContainerService.HintSize="337.6,56" sap2010:WorkflowViewState.IdRef="Comment_1" Text="// This is a comment about this project" />
+    <ui:Comment sap:VirtualizedContainerService.HintSize="337.6,56" sap2010:WorkflowViewState.IdRef="Comment_2" Text="// Write your comments in the Text property" />
     <ui:InvokeVBScript KillOnTimeout="{x:Null}" RunInBatchMode="{x:Null}" TimeoutMS="{x:Null}" UnicodeSupport="{x:Null}" DisplayName="Invoke VBScript" FileName="GetExcelSettings.vbs" sap:VirtualizedContainerService.HintSize="337.6,108.8" sap2010:WorkflowViewState.IdRef="InvokeVBScript_1" Result="[str_result]" WaitForOutput="True">
       <ui:InvokeVBScript.Arguments>
         <scg:List x:TypeArguments="InArgument(x:String)" Capacity="0" />
